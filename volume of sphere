@@ -1,0 +1,5 @@
+pi = 3.14
+diameter= 12
+radius=diameter/2
+volume= 4.0/3.0*pi* radius**3
+print('The volume of the sphere is: ',volume)
