@@ -1,0 +1,5 @@
+  firstname = input("What is your first name?:")
+   lastname = input("What's your last name?: ")
+   reversefirst = firstname[::-1]
+   reverselast= lastname[::-1]  
+   print (reversefirst,"",reverselast)
